@@ -64,13 +64,13 @@ Ten experimental videos, each with a different visual structure and script style
 
 | # | Video | Concept |
 |---|-------|---------|
-| 1 | [concept-diya-macro-devotional.mp4](concept-diya-macro-devotional.mp4) | প্রদীপের শিখা — diya flame macro → pull-back to Maa Lakshmi among diyas at dusk |
-| 2 | [concept-temple-bell-devotional.mp4](concept-temple-bell-devotional.mp4) | ঘণ্টাধ্বনি — swinging temple bell → tilt-down to Lord Shiva |
-| 3 | [concept-incense-smoke-devotional.mp4](concept-incense-smoke-devotional.mp4) | ধূপের ধোঁয়া — push through parting incense smoke to reveal Maa Durga |
-| 4 | [concept-devotee-pov-devotional.mp4](concept-devotee-pov-devotional.mp4) | ভক্তের দৃষ্টি — first-person hands offering hibiscus rise to Maa Kali's face |
-| 5 | [concept-mythology-orbit-devotional.mp4](concept-mythology-orbit-devotional.mp4) | পৌরাণিক গল্প — orbit around Durga's weapons + micro-mythology narration |
-| 6 | [concept-countdown-devotional.mp4](concept-countdown-devotional.mp4) | কাউন্টডাউন — kumortuli idol-making behind-the-scenes, festival countdown script |
-| 7 | [concept-monsoon-rain-devotional.mp4](concept-monsoon-rain-devotional.mp4) | বৃষ্টির সন্ধ্যা — rain on kadam leaves → Krishna with flute in the rain |
-| 8 | [concept-evening-aarti-devotional.mp4](concept-evening-aarti-devotional.mp4) | সন্ধ্যারতি — follow the aarti flame's circle to reveal Lord Ganesha |
-| 9 | [concept-feet-to-face-devotional.mp4](concept-feet-to-face-devotional.mp4) | চরণ থেকে মুখ — tilt-up from Jagannath's feet to the smiling faces |
-| 10 | [concept-nature-shrine-devotional.mp4](concept-nature-shrine-devotional.mp4) | প্রকৃতির মন্দির — sunrise through banyan roots to a tiny roadside shrine |
+| 1 | [concept-diya-macro-devotional.mp4](concept-demos/concept-diya-macro-devotional.mp4) | প্রদীপের শিখা — diya flame macro → pull-back to Maa Lakshmi among diyas at dusk |
+| 2 | [concept-temple-bell-devotional.mp4](concept-demos/concept-temple-bell-devotional.mp4) | ঘণ্টাধ্বনি — swinging temple bell → tilt-down to Lord Shiva |
+| 3 | [concept-incense-smoke-devotional.mp4](concept-demos/concept-incense-smoke-devotional.mp4) | ধূপের ধোঁয়া — push through parting incense smoke to reveal Maa Durga |
+| 4 | [concept-devotee-pov-devotional.mp4](concept-demos/concept-devotee-pov-devotional.mp4) | ভক্তের দৃষ্টি — first-person hands offering hibiscus rise to Maa Kali's face |
+| 5 | [concept-mythology-orbit-devotional.mp4](concept-demos/concept-mythology-orbit-devotional.mp4) | পৌরাণিক গল্প — orbit around Durga's weapons + micro-mythology narration |
+| 6 | [concept-countdown-devotional.mp4](concept-demos/concept-countdown-devotional.mp4) | কাউন্টডাউন — kumortuli idol-making behind-the-scenes, festival countdown script |
+| 7 | [concept-monsoon-rain-devotional.mp4](concept-demos/concept-monsoon-rain-devotional.mp4) | বৃষ্টির সন্ধ্যা — rain on kadam leaves → Krishna with flute in the rain |
+| 8 | [concept-evening-aarti-devotional.mp4](concept-demos/concept-evening-aarti-devotional.mp4) | সন্ধ্যারতি — follow the aarti flame's circle to reveal Lord Ganesha |
+| 9 | [concept-feet-to-face-devotional.mp4](concept-demos/concept-feet-to-face-devotional.mp4) | চরণ থেকে মুখ — tilt-up from Jagannath's feet to the smiling faces |
+| 10 | [concept-nature-shrine-devotional.mp4](concept-demos/concept-nature-shrine-devotional.mp4) | প্রকৃতির মন্দির — sunrise through banyan roots to a tiny roadside shrine |
