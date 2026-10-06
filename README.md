@@ -93,3 +93,16 @@ Copy-paste captions: [god-editor-style/CAPTIONS.md](god-editor-style/CAPTIONS.md
 | [godstyle-ganesha-devotional.mp4](god-editor-style/godstyle-ganesha-devotional.mp4) | Ganesha 🐘 |
 | [godstyle-radha-krishna-devotional.mp4](god-editor-style/godstyle-radha-krishna-devotional.mp4) | Radha-Krishna 🦚 |
 | [godstyle-shiva-devotional.mp4](god-editor-style/godstyle-shiva-devotional.mp4) | Shiva 🔱 |
+
+## 🔥 God-Editor-Style Videos — Batch 2 (10 sec each, no narration)
+
+Second batch in the viral "God editor" formula. Videos: [god-editor-style-2/](god-editor-style-2/).
+Captions: [god-editor-style-2/CAPTIONS.md](god-editor-style-2/CAPTIONS.md).
+
+| Video | Deity |
+|-------|-------|
+| [godstyle2-hanuman-devotional.mp4](god-editor-style-2/godstyle2-hanuman-devotional.mp4) | Hanuman 🐒 |
+| [godstyle2-vishnu-devotional.mp4](god-editor-style-2/godstyle2-vishnu-devotional.mp4) | Vishnu 🐚 |
+| [godstyle2-krishna-flute-devotional.mp4](god-editor-style-2/godstyle2-krishna-flute-devotional.mp4) | Krishna's flute 🎶 |
+| [godstyle2-parvati-devotional.mp4](god-editor-style-2/godstyle2-parvati-devotional.mp4) | Parvati 🌸 |
+| [godstyle2-kartik-devotional.mp4](god-editor-style-2/godstyle2-kartik-devotional.mp4) | Kartik (Murugan) 🦚 |
