@@ -119,3 +119,15 @@ Full recipe: [god-editor-style-2/FULL-PROMPTS-WITH-VOICE.md](god-editor-style-2/
 | [godstyle2-krishna-flute-voice-devotional.mp4](god-editor-style-2/godstyle2-krishna-flute-voice-devotional.mp4) | Krishna's flute 🎶 |
 | [godstyle2-parvati-voice-devotional.mp4](god-editor-style-2/godstyle2-parvati-voice-devotional.mp4) | Parvati 🌸 |
 | [godstyle2-kartik-voice-devotional.mp4](god-editor-style-2/godstyle2-kartik-voice-devotional.mp4) | Kartik (Murugan) 🦚 |
+
+## 🧪 CTA A/B Test — Batch 2 (10 sec each, with voice)
+
+3 fear-style CTA (user's) vs 2 positive-urgency CTA (assistant's). Scripts: [god-editor-style-2/CTA-TEST-SCRIPTS.md](god-editor-style-2/CTA-TEST-SCRIPTS.md).
+
+| Video | CTA style |
+|-------|-----------|
+| [godstyle2-hanuman-fearcta-voice-devotional.mp4](god-editor-style-2/godstyle2-hanuman-fearcta-voice-devotional.mp4) | 🔴 fear — Hanuman |
+| [godstyle2-vishnu-fearcta-voice-devotional.mp4](god-editor-style-2/godstyle2-vishnu-fearcta-voice-devotional.mp4) | 🔴 fear — Vishnu |
+| [godstyle2-kartik-fearcta-voice-devotional.mp4](god-editor-style-2/godstyle2-kartik-fearcta-voice-devotional.mp4) | 🔴 fear — Kartik |
+| [godstyle2-krishna-flute-positivecta-voice-devotional.mp4](god-editor-style-2/godstyle2-krishna-flute-positivecta-voice-devotional.mp4) | 🟢 positive — Krishna |
+| [godstyle2-parvati-positivecta-voice-devotional.mp4](god-editor-style-2/godstyle2-parvati-positivecta-voice-devotional.mp4) | 🟢 positive — Parvati |
