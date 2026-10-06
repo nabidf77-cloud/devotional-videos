@@ -106,3 +106,16 @@ Captions: [god-editor-style-2/CAPTIONS.md](god-editor-style-2/CAPTIONS.md).
 | [godstyle2-krishna-flute-devotional.mp4](god-editor-style-2/godstyle2-krishna-flute-devotional.mp4) | Krishna's flute 🎶 |
 | [godstyle2-parvati-devotional.mp4](god-editor-style-2/godstyle2-parvati-devotional.mp4) | Parvati 🌸 |
 | [godstyle2-kartik-devotional.mp4](god-editor-style-2/godstyle2-kartik-devotional.mp4) | Kartik (Murugan) 🦚 |
+
+## 🎙️ God-Editor-Style Videos — Batch 2 WITH VOICE (10 sec each)
+
+Same 5 batch-2 videos with Bengali narration added (voice: current default).
+Full recipe: [god-editor-style-2/FULL-PROMPTS-WITH-VOICE.md](god-editor-style-2/FULL-PROMPTS-WITH-VOICE.md).
+
+| Video | Deity |
+|-------|-------|
+| [godstyle2-hanuman-voice-devotional.mp4](god-editor-style-2/godstyle2-hanuman-voice-devotional.mp4) | Hanuman 🐒 |
+| [godstyle2-vishnu-voice-devotional.mp4](god-editor-style-2/godstyle2-vishnu-voice-devotional.mp4) | Vishnu 🐚 |
+| [godstyle2-krishna-flute-voice-devotional.mp4](god-editor-style-2/godstyle2-krishna-flute-voice-devotional.mp4) | Krishna's flute 🎶 |
+| [godstyle2-parvati-voice-devotional.mp4](god-editor-style-2/godstyle2-parvati-voice-devotional.mp4) | Parvati 🌸 |
+| [godstyle2-kartik-voice-devotional.mp4](god-editor-style-2/godstyle2-kartik-voice-devotional.mp4) | Kartik (Murugan) 🦚 |
