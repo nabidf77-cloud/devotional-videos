@@ -79,3 +79,17 @@ Ten experimental videos, each with a different visual structure and script style
 
 - [Scan Methodology](analysis/SCAN-METHODOLOGY.md) — what was scanned and how (Facebook page "God editor", read-only)
 - [Page Analysis Report](analysis/GOD-EDITOR-PAGE-ANALYSIS.md) — full findings: virality timeline, content formula, top reels
+
+## 🔥 God-Editor-Style Videos (10 sec each, no narration)
+
+Same-type videos modeled on the viral "God editor" Facebook page formula —
+AI-animated deity visuals + inspirational news caption. Videos: [god-editor-style/](god-editor-style/).
+Copy-paste captions: [god-editor-style/CAPTIONS.md](god-editor-style/CAPTIONS.md).
+
+| Video | Deity |
+|-------|-------|
+| [godstyle-durga-lion-devotional.mp4](god-editor-style/godstyle-durga-lion-devotional.mp4) | Durga on lion 🦁 |
+| [godstyle-lakshmi-kalash-devotional.mp4](god-editor-style/godstyle-lakshmi-kalash-devotional.mp4) | Lakshmi with kalash 🪙 |
+| [godstyle-ganesha-devotional.mp4](god-editor-style/godstyle-ganesha-devotional.mp4) | Ganesha 🐘 |
+| [godstyle-radha-krishna-devotional.mp4](god-editor-style/godstyle-radha-krishna-devotional.mp4) | Radha-Krishna 🦚 |
+| [godstyle-shiva-devotional.mp4](god-editor-style/godstyle-shiva-devotional.mp4) | Shiva 🔱 |
