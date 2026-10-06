@@ -74,3 +74,8 @@ Ten experimental videos, each with a different visual structure and script style
 | 8 | [concept-evening-aarti-devotional.mp4](concept-demos/concept-evening-aarti-devotional.mp4) | সন্ধ্যারতি — follow the aarti flame's circle to reveal Lord Ganesha |
 | 9 | [concept-feet-to-face-devotional.mp4](concept-demos/concept-feet-to-face-devotional.mp4) | চরণ থেকে মুখ — tilt-up from Jagannath's feet to the smiling faces |
 | 10 | [concept-nature-shrine-devotional.mp4](concept-demos/concept-nature-shrine-devotional.mp4) | প্রকৃতির মন্দির — sunrise through banyan roots to a tiny roadside shrine |
+
+## 📊 Competitor Analysis
+
+- [Scan Methodology](analysis/SCAN-METHODOLOGY.md) — what was scanned and how (Facebook page "God editor", read-only)
+- [Page Analysis Report](analysis/GOD-EDITOR-PAGE-ANALYSIS.md) — full findings: virality timeline, content formula, top reels
