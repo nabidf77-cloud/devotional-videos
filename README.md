@@ -131,3 +131,15 @@ Full recipe: [god-editor-style-2/FULL-PROMPTS-WITH-VOICE.md](god-editor-style-2/
 | [godstyle2-kartik-fearcta-voice-devotional.mp4](god-editor-style-2/godstyle2-kartik-fearcta-voice-devotional.mp4) | 🔴 fear — Kartik |
 | [godstyle2-krishna-flute-positivecta-voice-devotional.mp4](god-editor-style-2/godstyle2-krishna-flute-positivecta-voice-devotional.mp4) | 🟢 positive — Krishna |
 | [godstyle2-parvati-positivecta-voice-devotional.mp4](god-editor-style-2/godstyle2-parvati-positivecta-voice-devotional.mp4) | 🟢 positive — Parvati |
+
+## 🎙️ God-Editor-Style Videos — Batch 1 WITH VOICE (10 sec each)
+
+Same 5 batch-1 videos with Bengali narration added (voice: current default).
+
+| Video | Deity |
+|-------|-------|
+| [godstyle-durga-lion-voice-devotional.mp4](god-editor-style/godstyle-durga-lion-voice-devotional.mp4) | Durga on lion 🦁 |
+| [godstyle-lakshmi-kalash-voice-devotional.mp4](god-editor-style/godstyle-lakshmi-kalash-voice-devotional.mp4) | Lakshmi with kalash 🪙 |
+| [godstyle-ganesha-voice-devotional.mp4](god-editor-style/godstyle-ganesha-voice-devotional.mp4) | Ganesha 🐘 |
+| [godstyle-radha-krishna-voice-devotional.mp4](god-editor-style/godstyle-radha-krishna-voice-devotional.mp4) | Radha-Krishna 🦚 |
+| [godstyle-shiva-voice-devotional.mp4](god-editor-style/godstyle-shiva-voice-devotional.mp4) | Shiva 🔱 |
