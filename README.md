@@ -143,3 +143,21 @@ Same 5 batch-1 videos with Bengali narration added (voice: current default).
 | [godstyle-ganesha-voice-devotional.mp4](god-editor-style/godstyle-ganesha-voice-devotional.mp4) | Ganesha 🐘 |
 | [godstyle-radha-krishna-voice-devotional.mp4](god-editor-style/godstyle-radha-krishna-voice-devotional.mp4) | Radha-Krishna 🦚 |
 | [godstyle-shiva-voice-devotional.mp4](god-editor-style/godstyle-shiva-voice-devotional.mp4) | Shiva 🔱 |
+
+## 🔥 God-Editor-Style Videos — Batch 3 (10 sec each)
+
+6 with fear-style CTA voice narration + 4 normal (no voice, God editor style).
+Videos: [god-editor-style-3/](god-editor-style-3/). Captions: [god-editor-style-3/CAPTIONS.md](god-editor-style-3/CAPTIONS.md).
+
+| Video | Type |
+|-------|------|
+| [godstyle3-saraswati-devotional.mp4](god-editor-style-3/godstyle3-saraswati-devotional.mp4) | 🔴 CTA — Saraswati 📚 |
+| [godstyle3-kali-devotional.mp4](god-editor-style-3/godstyle3-kali-devotional.mp4) | 🔴 CTA — Kali 🖤 |
+| [godstyle3-ram-devotional.mp4](god-editor-style-3/godstyle3-ram-devotional.mp4) | 🔴 CTA — Ram 🏹 |
+| [godstyle3-lakshmi-ganesha-devotional.mp4](god-editor-style-3/godstyle3-lakshmi-ganesha-devotional.mp4) | 🔴 CTA — Lakshmi-Ganesha 🪔 |
+| [godstyle3-bal-krishna-devotional.mp4](god-editor-style-3/godstyle3-bal-krishna-devotional.mp4) | 🔴 CTA — Bal Krishna 🧈 |
+| [godstyle3-durga-face-devotional.mp4](god-editor-style-3/godstyle3-durga-face-devotional.mp4) | 🔴 CTA — Durga 🌺 |
+| [godstyle3-santoshi-devotional.mp4](god-editor-style-3/godstyle3-santoshi-devotional.mp4) | ⚪ Normal — Santoshi Maa 💛 |
+| [godstyle3-jagannath-devotional.mp4](god-editor-style-3/godstyle3-jagannath-devotional.mp4) | ⚪ Normal — Jagannath ⭕ |
+| [godstyle3-surya-devotional.mp4](god-editor-style-3/godstyle3-surya-devotional.mp4) | ⚪ Normal — Surya 🌅 |
+| [godstyle3-balaji-devotional.mp4](god-editor-style-3/godstyle3-balaji-devotional.mp4) | ⚪ Normal — Tirupati Balaji 🛕 |
